@@ -1,1 +1,1 @@
-# Data-Visualizatio-of-Global-Box-Office-Data
+# Data-Visualization-of-Global-Box-Office-Data
